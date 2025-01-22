@@ -1,4 +1,5 @@
-## Hi there 👋, I'm Agnes Tshibangu
+## Hi there, I'm Agnes ! ![image](https://github.com/user-attachments/assets/af1153d8-0fc7-49d1-88c2-53272a1eca31)
+
 
 With four years of experience in programming, I've developed a strong passion for all aspects of full-stack development and networking. Currently, I'm a dedicated student at 42 School, nearing the completion of the common core curriculum.
 
